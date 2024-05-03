@@ -1,0 +1,4 @@
+name:Saniya
+class:TE
+subject:wad
+description:this is my file2.txt
